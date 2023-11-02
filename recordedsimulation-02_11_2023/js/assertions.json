@@ -1,0 +1,10 @@
+{
+  "simulation": "testkafkarest.RecordedSimulation",
+  "simulationId": "recordedsimulation-20231102164956822",
+  "start": 1698943798313,
+  "description": "",
+  "scenarios": ["RecordedSimulation"],
+  "assertions": [
+
+  ]
+}
